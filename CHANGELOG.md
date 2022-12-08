@@ -5,12 +5,12 @@
 Bugfixes and support for Redmine 5.x. Thanks everybody for the contributions.
 
 * Bugfix: fixed some typos in readme.md (@ace280)
-* Bugfix: Fixed German mistranslation (@martinvonwittich) (#39)
-* Bugfix: CircleCI configuration fixes (@sanak) (#41)
-* Feature: Support for Redmine-5.x - zeitwerk etc. (@ishikawa999) (#11)
-* Feature: Sort trackers in position order (@yui-har) (#6)
-* Feature: Note templates improved (@yui-har) (#17, #26, #29)
-* Feature: Testing improved - webdriver etc. (@yui-har) (#24)
+* Bugfix: Fixed German mistranslation (@martinvonwittich) (GitHub: #39)
+* Bugfix: CircleCI configuration fixes (@sanak) (GitHub: #41)
+* Feature: Support for Redmine-5.x - zeitwerk etc. (@ishikawa999) (GitHub: #11)
+* Feature: Sort trackers in position order (@yui-har) (GitHub: #6)
+* Feature: Note templates improved (@yui-har) (GitHub: #17, GitHub: #26, GitHub: #29)
+* Feature: Testing improved - webdriver etc. (@yui-har) (GitHub: #24)
 
 ### 1.1.0
 
