@@ -135,7 +135,6 @@ class ISSUE_TEMPLATE {
   }
   replaceTemplateValue(obj) {
     const ns = this;
-    console.log('TDI: replaceTemplateValue!');
 
     let oldVal = '';
     let oldSubj = '';
